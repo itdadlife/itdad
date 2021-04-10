@@ -1,0 +1,60 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+- company:
+    name: Example Co.
+    url: "https://www.example.com"
+    location: Boston, MA
+    # company overview
+    overview: Example Co.
+  positions:
+  - designation: Senior Systems Engineer
+    start: Jan 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop XYZ
+  - designation: Systems Engineer
+    start: Oct 2018
+    end: Dec 2019
+    responsibilities:
+    - Support client for abc tool.
+    - Learn k,d,w technology for xyz.
+
+- company:
+    name: PreExample Co.
+    url: "https://www.preexample.com"
+    location: Newton, MA
+    overview: PreExample Co.
+  positions:
+  - designation: DevOps Engineer
+    start: March 2018
+    end: Oct 2018
+    responsibilities:
+    - AWS Cloud Architecture
+    - Systems Administration
+    - Cyber Security
+    - IT Support
+
+- company:
+    name: PrePreExample Co.
+    url: "https://www.preexample.com"
+    location: Charlotte, NC
+    overview: PrePreExample Co.
+  positions:
+  - designation: Oracle Database Administrator
+    start: Feb 2016
+    end: Mar 2018
+    responsibilities:
+    - Oracle Database Administration
+

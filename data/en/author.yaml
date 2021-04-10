@@ -1,0 +1,21 @@
+# some information about you
+name: "Bradley Wright"
+nickname: "Brad"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/bradley.png"
+
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "bradley@itdad.life"
+  # phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - I am a Father
+  - I am a Systems Engineer
+  - I am a Developer
+  - I build on Kubernetes
+  - I love learning
+  - I love to work with some fun projects
