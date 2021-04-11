@@ -1,80 +1,52 @@
-# section information
+---
 section:
   name: About
   id: about
   enable: true
-  weight: 1
+  weight: "1"
   showOnNavbar: true
   template: sections/about.html
-
-# your designation
 designation: Senior Systems Engineer
-# # your company information
-# company:
-#   name: Example Co.
-#   url: "https://www.example.com"
-
-# your resume. this file path should be relative to you "static" directory
-# resume: "files/resume.pdf"
-
-# a summary about you
-summary: 'I am a passionate systems engineer with 5 years of working experience. I architect and manage many different systems in the cloud. I also build and manage tools for [Kubernetes](https://kubernetes.io/) using Go. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as home automation, cyber security, networking etc.'
-
-# your social links
-# give as many as you want. use font-awesome for the icons.
+summary: I am a passionate systems engineer with 5 years of working experience. I
+  architect and manage many different systems in the cloud. I also build and manage
+  tools for [Kubernetes](https://kubernetes.io/) using Go. My tools help people to
+  deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such
+  as home automation, cyber security, networking etc.
 socialLinks:
 - name: This Site's Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/itdadlife"
+  icon: fab fa-github
+  url: https://www.github.com/itdadlife
 - name: Personal Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/the-wright-engineer"
+  icon: fab fa-github
+  url: https://www.github.com/the-wright-engineer
 - name: Email
-  icon: "fas fa-envelope"
-  url: "bradley@itdad.life"
+  icon: fas fa-envelope
+  url: bradley@itdad.life
 - name: LinkedIn
-  icon: "fab fa-linkedin"
-  url: "#"
+  icon: fab fa-linkedin
+  url: https://www.linkedin.com/in/wrightbradley/
 - name: Twitter
-  icon: "fab fa-twitter"
+  icon: fab fa-twitter
   url: "#"
-
-# - name: Stackoverflow
-#   icon: "fab fa-stack-overflow"
-#   url: "#"
-# - name: Facebook
-#   icon: "fab fa-facebook"
-#   url: "#"
-
-# your soft skills
-# give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Teaching
-  percentage: 100
+  percentage: "100"
   color: green
 - name: Leadership
-  percentage: 85
+  percentage: "85"
   color: blue
 - name: Team Work
-  percentage: 90
+  percentage: "90"
   color: yellow
 - name: Communication
-  percentage: 80
+  percentage: "80"
   color: pink
 - name: Hard Working
-  percentage: 95
+  percentage: "95"
   color: green
 - name: Fast Learner
-  percentage: 85
+  percentage: "85"
   color: sky
 - name: Problem Solving
-  percentage: 85
+  percentage: "85"
   color: orange
-# you can also provide color code instead of pre-defined color name
-# - name: Example 1
-#   percentage: 75
-#   color: "#00adb5"
-# - name: Example 2
-#   percentage: 65
-#   color: "#8b8383"
