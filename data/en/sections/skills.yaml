@@ -19,8 +19,8 @@ skills:
   summary: I've worked with most of the major cloud vendors such as GCP and AWS.
 - name: Docker
   logo: "/images/sections/skills/docker.svg"
-  summary: Write most of the programs as dockerized container. Experienced with multi-stage,
-    multi-arch build process.
+  summary: Whenever possible, I write most programs to run in containers. I'm experienced
+    with multi-stage, multi-arch build processes.
   url: https://www.docker.com/
 - name: Prometheus
   logo: "/images/sections/skills/prometheus.png"
