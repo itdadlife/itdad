@@ -1,45 +1,37 @@
-# section information
+---
 section:
   name: Skills
   id: skills
   enable: true
-  weight: 2
+  weight: "2"
   showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true
-
-# Your Skills.
-# Give a summary of you each skill in the summary section.
 skills:
 - name: Kubernetes
   icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of designing, deploying, and managing applications on Kubernetes."
-  url: "https://kubernetes.io/"
-
+  summary: I design, deploy and manage applications on Kubernetes.
+  url: https://kubernetes.io/
 - name: Go Development
   icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for system development and management."
-  url: "https://golang.org/"
-
+  summary: I use Go as the main language for system tooling and management.
+  url: https://golang.org/
 - name: Cloud Computing
   icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP and AWS."
-
+  summary: I've worked with most of the major cloud vendors such as GCP and AWS.
 - name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
+  logo: "/images/sections/skills/docker.svg"
+  summary: Whenever possible, I write most programs to run in containers. I'm experienced
+    with multi-stage, multi-arch build processes.
+  url: https://www.docker.com/
 - name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup and configuration of Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with Grafana and Loki."
-  url: "https://prometheus.io/"
-
+  logo: "/images/sections/skills/prometheus.png"
+  summary: I setup and configure Prometheus and associated metrics. I am experienced
+    with PromQL, Alertmanager, Grafana and Loki.
+  url: https://prometheus.io/
 - name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "The main operating system I build on. Capable of writing bash/shell scripts."
-
+  logo: "/images/sections/skills/linux.png"
+  summary: This is the main operating system I build on. I am capable of writing full-featured
+    bash/shell scripts.
 - name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github."
-  url: "https://git-scm.com/"
+  logo: "/images/sections/skills/git.png"
+  summary: Experienced with git-based development. Mostly, use Github.
+  url: https://git-scm.com/
