@@ -1,21 +1,12 @@
-# section information
+---
 section:
   name: Achievements
   id: achievements
-  enable: true
-  weight: 8
+  enable: false
+  weight: "8"
   showOnNavbar: true
-  # Can optionally hide the title in sections
-  # hideTitle: true
-
-# Your achievements achievements
 achievements:
-- title: One
-  image: /images/sections/achievements/presenter.jpg
-  summary: one
-- title: Two
-  image: /images/sections/achievements/sport.jpg
-  summary: Two
-- title: Three
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: three
+- title: Master of Science (M.S.) Information Technology
+  image: "/images/sections/achievements/uncc.jpg"
+  summary: In 2017 I graduated with my MS in Information Technology with a focus in
+    Information Security and Privacy.
