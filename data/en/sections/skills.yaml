@@ -24,8 +24,8 @@ skills:
   url: https://www.docker.com/
 - name: Prometheus
   logo: "/images/sections/skills/prometheus.png"
-  summary: Capable of setup and configuration of Prometheus metrics. Experienced with
-    PromQL, AlertManager. Also, experienced with Grafana and Loki.
+  summary: I setup and configure Prometheus and associated metrics. I am experienced
+    with PromQL, Alertmanager, Grafana and Loki.
   url: https://prometheus.io/
 - name: Linux
   logo: "/images/sections/skills/linux.png"
