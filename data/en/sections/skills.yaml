@@ -6,27 +6,27 @@ section:
   weight: "2"
   showOnNavbar: true
 skills:
-- name: Docker
-  logo: "/images/sections/skills/docker.svg"
-  summary: Whenever possible, I write most programs to run in containers. I'm experienced
-    with multi-stage, multi-arch build processes.
-  url: https://www.docker.com/
 - name: Kubernetes
-  icon: "/images/sections/skills/kubernetes.png"
+  logo: "/images/sections/skills/kubernetes.png"
   summary: I design, deploy and manage applications on Kubernetes.
   url: https://kubernetes.io/
 - name: Go Development
-  icon: "/images/sections/skills/go.png"
+  logo: "/images/sections/skills/go.png"
   summary: I use Go as the main language for system tooling and management.
   url: https://golang.org/
 - name: Cloud Computing
-  icon: "/images/sections/skills/cloud.png"
+  logo: "/images/sections/skills/cloud.png"
   summary: I've worked with most of the major cloud vendors such as GCP and AWS.
 - name: Prometheus
   logo: "/images/sections/skills/prometheus.png"
   summary: I setup and configure Prometheus and associated metrics. I am experienced
     with PromQL, Alertmanager, Grafana and Loki.
   url: https://prometheus.io/
+- name: Docker
+  logo: "/images/sections/skills/docker.svg"
+  summary: Whenever possible, I write most programs to run in containers. I'm experienced
+    with multi-stage, multi-arch build processes.
+  url: https://www.docker.com/
 - name: Linux
   logo: "/images/sections/skills/linux.png"
   summary: This is the main operating system I build on. I am capable of writing full-featured
