@@ -6,6 +6,11 @@ section:
   weight: "2"
   showOnNavbar: true
 skills:
+- name: Docker
+  logo: "/images/sections/skills/docker.svg"
+  summary: Whenever possible, I write most programs to run in containers. I'm experienced
+    with multi-stage, multi-arch build processes.
+  url: https://www.docker.com/
 - name: Kubernetes
   icon: "/images/sections/skills/kubernetes.png"
   summary: I design, deploy and manage applications on Kubernetes.
@@ -17,11 +22,6 @@ skills:
 - name: Cloud Computing
   icon: "/images/sections/skills/cloud.png"
   summary: I've worked with most of the major cloud vendors such as GCP and AWS.
-- name: Docker
-  logo: "/images/sections/skills/docker.svg"
-  summary: Whenever possible, I write most programs to run in containers. I'm experienced
-    with multi-stage, multi-arch build processes.
-  url: https://www.docker.com/
 - name: Prometheus
   logo: "/images/sections/skills/prometheus.png"
   summary: I setup and configure Prometheus and associated metrics. I am experienced
