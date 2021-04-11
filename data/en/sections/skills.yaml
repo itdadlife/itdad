@@ -8,7 +8,7 @@ section:
 skills:
 - name: Kubernetes
   icon: "/images/sections/skills/kubernetes.png"
-  summary: Capable of designing, deploying, and managing applications on Kubernetes.
+  summary: I design, deploy and manage applications on Kubernetes.
   url: https://kubernetes.io/
 - name: Go Development
   icon: "/images/sections/skills/go.png"
