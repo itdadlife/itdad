@@ -29,7 +29,8 @@ skills:
   url: https://prometheus.io/
 - name: Linux
   logo: "/images/sections/skills/linux.png"
-  summary: The main operating system I build on. Capable of writing bash/shell scripts.
+  summary: This is the main operating system I build on. I am capable of writing full-featured
+    bash/shell scripts.
 - name: Git
   logo: "/images/sections/skills/git.png"
   summary: Experienced with git-based development. Mostly, use Github.
