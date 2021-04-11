@@ -7,13 +7,13 @@ section:
   showOnNavbar: true
   template: sections/about.html
 designation: Senior Systems Engineer
-summary: I am a passionate systems engineer with 5 years of working experience. I
+summary: I am a passionate systems engineer with 8 years of working experience. I
   architect and manage many different systems in the cloud. I also build and manage
   tools for [Kubernetes](https://kubernetes.io/) using Go. My tools help people to
   deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such
   as home automation, cyber security, networking etc.
 socialLinks:
-- name: This Site's Github
+- name: itdadlife Github
   icon: fab fa-github
   url: https://www.github.com/itdadlife
 - name: Twitter

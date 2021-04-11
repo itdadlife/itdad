@@ -11,11 +11,11 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
+    name: GSN Games
+    url: "https://gsngames.com"
     location: Boston, MA
     # company overview
-    overview: Example Co.
+    overview: GSN Games delivers social casino and skill-based games designed to fuel every player’s inner winner. GSN Games is part of GSN (Game Show Network), owned by Sony Pictures Entertainment.
   positions:
   - designation: Senior Systems Engineer
     start: Jan 2020
@@ -23,38 +23,110 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ
+    - Architected and deployed new cloud environments using Infrastructure as Code
+    - Researched, trailblazed, executed and administered various Kubernetes clusters.
+    - Migrated a data center running decade-old technology to the cloud and designed VM-based applications to run in containerized workloads
+    - Implemented secure and repeatable infrastructure using Terraform and Packer
+    - Innovated the CI/CD pipeline for many applications
+    - Revolutionized the Software Development Lifecycle for developers and testers by programming a tool written in Go to deploy, configure, and interface with Kubernetes applications
+    - Designed, developed and deployed a full observability stack for centralized metrics, logs and alerting which greatly enhanced our visibility into our workloads
+    - Assisted with cyber security events and audits
+    - Led many trainings and knowledge transfer sessions within and across the company
+    - Actively managed costs and implemented better designs to save thousands of dollars monthly
   - designation: Systems Engineer
     start: Oct 2018
     end: Dec 2019
     responsibilities:
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Systems Administration for both on-prem data centers and various cloud providers
+    - Designed and enhanced automation of systems using Ansible
+    - Researched new tools and pioneered new processes to secure and enhance day-to-day functions
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
+    name: CABEM Technologies
+    url: "https://www.cabem.com"
     location: Newton, MA
-    overview: PreExample Co.
+    overview: CABEM has 18+ years of experience developing custom enterprise solutions for businesses with the highest standards, across a wide array of industries including manufacturing, healthcare, education and government.
   positions:
   - designation: DevOps Engineer
     start: March 2018
     end: Oct 2018
     responsibilities:
-    - AWS Cloud Architecture
-    - Systems Administration
-    - Cyber Security
-    - IT Support
+    - I built and managed systems on AWS Cloud
+    - I performed systems administration duties for Red Hat servers running Apache and various MySQL databases
+    - I automated tasks using Ansible
+    - I configured and managed intrusion detection systems and firewalls
+    - I provided IT Support and office hardware purchasing
 
 - company:
-    name: PrePreExample Co.
-    url: "https://www.preexample.com"
+    name: University of North Carolina at Charlotte
+    url: "https://www.uncc.edu"
     location: Charlotte, NC
-    overview: PrePreExample Co.
+    overview: The University of North Carolina at Charlotte is a public research university in Charlotte, North Carolina.
   positions:
-  - designation: Oracle Database Administrator
+  - designation: Master of Science in Information Technology
+    start: Aug 2015
+    end: Dec 2017
+    responsibilities:
+    - Concentrated in Information Security and Privacy
+    - 4.0 GPA
+
+- company:
+    name: Bank of America
+    url: "https://www.bankofamerica.com"
+    location: Charlotte, NC
+    overview: The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered in Charlotte, North Carolina.
+  positions:
+  - designation: Oracle Database Administrator and Analyst
     start: Feb 2016
     end: Mar 2018
     responsibilities:
-    - Oracle Database Administration
+    - Responsible for Oracle Database Administration tasks such as performance tuning, data backups, database compliance, engineering, architecture and application release support.
+    - Responsible for securing databases by ensuring confidentiality, integrity and availability
+    - Pioneered migrations from Oracle 11g to Oracle 12c on the Exadata hardware platform
+    - Developed new processes and standards related to operations and deployments
+    - Designed thorough and complete documentation for operations and deployments
+    - Engineered shell scripts, SQL scripts, and python scripts for automation, monitoring, and incident handling.
+
+- company:
+    name: University of North Carolina at Charlotte
+    url: "https://www.uncc.edu"
+    location: Charlotte, NC
+    overview: The University of North Carolina at Charlotte is a public research university in Charlotte, North Carolina.
+  positions:
+  - designation: Bachelor of Arts in Computer Science
+    start: Aug 2012
+    end: Dec 2015
+    responsibilities:
+    - Concentration in Information Security
+    - Magna Cum Laude
+  - designation: Minor in Criminal Justice
+    start: Aug 2012
+    end: Dec 2015
+
+- company:
+    name: Bank of America
+    url: "https://www.bankofamerica.com"
+    location: Charlotte, NC
+    overview: The Bank of America Corporation is an American multinational investment bank and financial services holding company headquartered in Charlotte, North Carolina.
+  positions:
+  - designation: Technology Developer and Analyst Intern
+    start: Jun 2015
+    end: Aug 2015
+    responsibilities:
+    - I worked on Oracle Databases. Some of my work included securing databases and analyzing performance tuning reports.
+    - I developed a script that scanned Oracle Databases for any security violations. This script would then generate a report that was emailed to the user.
+
+- company:
+    name: Center for Business Innovation
+    location: Lansing, MI
+    overview: A Michigan-based technology service provider
+  positions:
+  - designation: Application Specialist Consultant
+    start: Apr 2015
+    end: Jun 2013
+    responsibilities:
+    - I monitored a database of printers and copiers located at various companies nationally and internationally.
+    - I provided support through installing and configuring data collection agents at these companies.
+    - I coordinated with team members from the seven different branches of CBI in order to ensure the database runs optimally and units report regularly.
+    - I also trained employees in toner alert processing, remote installations, and database management.
 
