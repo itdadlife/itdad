@@ -3,3 +3,14 @@ copyright: © 2021 Copyright.
 
 # Meta description for your site.  This will help the search engines to find your site.
 description: Portfolio and personal blog of Bradley Wright.
+
+# A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
+disclaimer: "This is a personal blog. Any views or opinions represented in this blog are personal and belong soley to the blog owner and do not represent those of people, instituions, or organizations that the owner may or may not be associated with in a professional or personal capacity, unless explicitly stated. Any views or opinions are not intended to malign any religion, ethnic group, club, organization, company, or individual."
+
+# Specify OpenGraph Headers
+openGraph:
+  title: IT Dad
+  type: website
+  description: Portfolio and personal blog of Bradley Wright
+  image: images/site/main-logo.png
+  url: https://itdad.life
