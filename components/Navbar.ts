@@ -23,10 +23,10 @@ export default function Navbar() {
           <Link href="/">
             <a>
               <h1 className="font-semibold text-xl dark:text-gray-100">
-                {userData.name}
+                Bradley Wright
               </h1>
               <p className="text-base font-light text-gray-500 dark:text-gray-300">
-                {userData.designation}
+                Engineer
               </p>
             </a>
           </Link>
@@ -141,7 +141,7 @@ export default function Navbar() {
 
         <div className="space-x-4 flex flex-row items-center">
           <a
-            href={userData.socialLinks.instagram}
+            href=instagram
             className="text-base font-normal text-gray-600 dark:text-gray-300"
           >
             <svg
@@ -156,7 +156,7 @@ export default function Navbar() {
             </svg>
           </a>
           <a
-            href={userData.socialLinks.twitter}
+            href=twitter
             className="text-base font-normal text-gray-600 dark:text-gray-300"
           >
             <svg
@@ -171,7 +171,7 @@ export default function Navbar() {
             </svg>
           </a>
           <a
-            href={userData.socialLinks.linkedin}
+            href=linkedin
             className="text-base font-normal text-gray-600 dark:text-gray-300"
           >
             <svg
